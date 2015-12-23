@@ -1,4 +1,4 @@
-Headline
+BlackJack
 ============
 
 BlackJack JS Based game
